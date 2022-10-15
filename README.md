@@ -1,2 +1,2 @@
-# Printf
+# printf
 Partnership in Alx
